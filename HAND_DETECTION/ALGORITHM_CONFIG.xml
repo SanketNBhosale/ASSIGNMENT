@@ -1,0 +1,14 @@
+<BOWSER_INSPECTION>
+	<CODE_PATH>/home/ultratech-03/Insightzz/ALGORITHM/CODES</CODE_PATH>
+	<LOG_PATH>/home/ultratech-03/Insightzz/ALGORITHM/LOGS/ALGORITHM_V1.log</LOG_PATH>
+	<MODEL_PATH>/home/ultratech-03/Insightzz/ALGORITHM/model</MODEL_PATH>
+	<MODEL_FILENAME>model_final.pth</MODEL_FILENAME>
+	<JSON_PATH>/home/ultratech-03/Insightzz/ALGORITHM/model/BOWSER.json</JSON_PATH>
+	<CONFIG_PATH>/home/ultratech-03/Insightzz/ALGORITHM/configs/COCO-InstanceSegmentation/mask_rcnn_R_101_FPN_3x.yaml</CONFIG_PATH>	
+	<RAW_PATH>/home/ultratech-03/Insightzz/ALGORITHM/SAVED_DATA/RAWS</RAW_PATH>
+	<INF_PATH>/home/ultratech-03/Insightzz/ALGORITHM/SAVED_DATA/INFS</INF_PATH>
+	<DB_HOST>localhost</DB_HOST>
+	<DB_NAME>BOWSER_INSPECTION_DB</DB_NAME>
+	<DB_USERNAME>insightzz</DB_USERNAME>
+	<DB_PASSWORD>Insightzz@123</DB_PASSWORD>
+</BOWSER_INSPECTION>
